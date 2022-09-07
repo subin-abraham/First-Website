@@ -1,0 +1,303 @@
+body {
+  background-color: white;
+  margin-top: 0px;
+}
+#header_section {
+  width: 1519px;
+  height: 80px;
+  position: sticky;
+  top: 0px;
+  margin-left: -8px;
+  margin-top: -27px;
+
+  background-color: black;
+}
+
+#icon {
+  margin-left: 82px;
+  margin-top: 26px;
+  color: white;
+}
+
+#heading {
+  margin-left: 141px;
+  margin-top: -92px;
+  font-family: "Qwitcher Grypen", cursive;
+  font-size: larger;
+  color: white;
+}
+
+#links {
+  margin-left: 876px;
+  margin-top: -71px;
+  font-family: "Kanit", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+#location {
+  padding: 10px;
+  text-decoration: none;
+}
+#location:link,
+#location:visited {
+  color: white;
+}
+#login {
+  padding: 10px;
+  text-decoration: none;
+}
+#login:link,
+#login:visited {
+  color: white;
+}
+#create_account {
+  padding: 10px;
+  text-decoration: none;
+}
+#create_account:link,
+#create_account:visited {
+  color: white;
+}
+#contact {
+  padding: 10px;
+  text-decoration: none;
+}
+#contact:link,
+#contact:visited {
+  color: white;
+}
+#background_image {
+  width: 1519px;
+  height: 670px;
+  margin-top: 0px;
+  margin-left: -8px;
+  background-image: url(./image/girl-865304_1920.jpg);
+  background-size: 100%;
+}
+#icon2 {
+  color: white;
+  margin-left: 45%;
+  margin-top: 15%;
+}
+
+#caption {
+  color: white;
+  margin-left: 35%;
+  margin-top: 35px;
+  font-family: "Roboto Mono", monospace;
+}
+
+#about {
+  color: black;
+}
+#heading_about {
+  width: 300px;
+  height: 45px;
+  border-bottom: 1px black solid;
+  margin-top: 100px;
+  margin-left: 40%;
+  text-align: center;
+  font-family: "Signika Negative", sans-serif;
+  /* margin-top: 100px; */
+}
+#discription_about {
+  width: 75%;
+  height: 200px;
+  background-color: white;
+  border-radius: 28px;
+  padding: 20px;
+  margin-left: 173px;
+  margin-top: 26px;
+  text-align: justify;
+  font-size: larger;
+  font-family: "Source Code Pro", monospace;
+}
+#gallery {
+  margin-top: 0px;
+  margin-left: 0px;
+  text-align: center;
+}
+
+#gallery_heading {
+  width: 300px;
+  height: 45px;
+  margin-top: 0px;
+  margin-left: 40%;
+  text-align: center;
+  font-family: "Signika Negative", sans-serif;
+  margin-top: 100px;
+  border-bottom: 1px black solid;
+}
+
+#gallery_details {
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+#gallery_group {
+  margin-top: 38px;
+  margin-left: 0px;
+  border-bottom: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#mocha
+  #raf
+  #cold_brew
+  #Espresso_con_panna
+  #espresso_romano
+  #nitro
+  #cappuccino
+  #cortado
+  #latte {
+  width: 300px;
+  height: 300px;
+}
+
+#image {
+  width: 85%;
+  height: 90%;
+  margin-top: 40px;
+  border-radius: 160px;
+}
+
+#heading_gallery {
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 0px;
+  text-transform: uppercase;
+  font-family: "Source Code Pro", monospace;
+}
+#footer_body {
+  width: 1519px;
+  height: 600px;
+  background-color: #F7F7F7;
+  margin-top: 88px;
+  margin-left: -8px;
+}
+#logo_footer {
+  width: 506px;
+  height: 400px;
+  margin-top: -433px;
+  margin-left: 13px;
+
+  
+}
+#logo_chara {
+  height: 0px;
+  color: black;
+  margin-top: 7%;
+  margin-left: 160px;
+}
+#caption_footer {
+  margin-top: 29px;
+  margin-left: 23px;
+  font-family: "Roboto Mono", monospace;
+
+
+}
+#options {
+  width: 160px;
+  margin-top: 0px;
+  margin-left: 609px;
+
+}
+
+#main_menu_heading {
+  margin-left: 20px;
+  margin-top: 25px;
+  border-bottom: 2px black solid;
+  font-family: "Signika Negative", sans-serif;
+
+}
+ul {
+  width: 250px;
+  height: 400px;
+  margin-top: 46px;
+  margin-left: 0px;
+  font-family: "Kanit", sans-serif;
+
+}
+
+#location_2 {
+  text-decoration: none;
+}
+#login_2 {
+  text-decoration: none;
+}
+#create_account_2 {
+  text-decoration: none;
+}
+#contact_2 {
+  text-decoration: none;
+}
+li {
+  display: list-item;
+  list-style: none;
+}
+#subscribe_parent {
+  width: 506px;
+  height: 400px;
+  margin-top: -472px;
+  margin-left: 978px;
+
+}
+#subscribe_child {
+  width: 160px;
+  height: 22px;
+  margin-top: 0px;
+  margin-left: 169px;
+  border-bottom: 2px black solid;
+
+}
+#subscribe_heading {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Signika Negative", sans-serif;
+
+}
+#subscribe_discription {
+  margin-top: 37px;
+  margin-left: 130px;
+  font-family: "Source Code Pro", monospace;
+
+}
+#input_email {
+  width: 180px;
+  height: 30px;
+  margin-left: 127px;
+  margin-top: 0px;
+  font-family: "Signika Negative", sans-serif;
+
+}
+#subscribe_button {
+  width: 100px;
+  height: 36px;
+  color: white;
+  background-color: black;
+  margin-left: -5px;
+  margin-top: 0px;
+  font-family: "Signika Negative", sans-serif;
+
+}
+#subscribe_button:hover {
+  background-color: white;
+  color: black;
+}
+#bottom_logos {
+  margin-top: 0px;
+  margin-left: 40%;
+  opacity: 50%;
+}
+#copyright_main {
+  margin-left: 662px;
+  margin-top: 039px;
+}
+#copyright {
+  opacity: 50%;
+  font-family: "Source Code Pro", monospace;
+
+}
+
